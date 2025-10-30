@@ -4,10 +4,15 @@ This website is the second part of the wild-oasis project, being the frontend fo
 This full-stack website is created using:
 
 HTML / HTML5
+
 CSS / CSS3
+
 React 18
+
 React Styled Components
+
 Next.js
+
 Supabase
 
 Link to the website: https://doctor-oasis.vercel.app/
